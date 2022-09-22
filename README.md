@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi I'm Georgia
+
+## Things about me:
+- I'm an ECON-STAT student at Pitt
+- I'm currently learning Python
 
 <!--
 **georgiawright1/georgiawright1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![my cv[(https://)
+![my LinkedIn]()
 -->
