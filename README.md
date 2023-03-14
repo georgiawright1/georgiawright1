@@ -4,7 +4,7 @@
 - I'm a recent graduate from the University of Pittsburgh
 - I have a Bachelor of Science in Economics-Statistics
 - My pronouns are she/her
-- ![my LinkedIn](https://www.linkedin.com/in/georgia-wright-8a5366183/)
+- [my LinkedIn](https://www.linkedin.com/in/georgia-wright-8a5366183/)
 
 <!--
 **georgiawright1/georgiawright1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
