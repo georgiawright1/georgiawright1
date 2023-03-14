@@ -1,8 +1,9 @@
 # Hi I'm Georgia
 
 ## Things about me:
-- I'm an ECON-STAT student at Pitt
-- I'm currently learning Python
+- I'm a recent graduate from the University of Pittsburgh
+- I have a joint degree in Economics and Statistics
+- My pronouns are she/her
 
 <!--
 **georgiawright1/georgiawright1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
